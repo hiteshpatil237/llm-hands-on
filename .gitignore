@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 cuda
+openwebtext
+output_train.txt
+output_val.txt
+vocab.txt
