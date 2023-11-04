@@ -6,3 +6,4 @@ output_val.txt
 vocab.txt
 model-01.pkl
 .chromadb
+database.db
